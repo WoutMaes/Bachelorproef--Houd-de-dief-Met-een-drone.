@@ -2,7 +2,7 @@
 
 In deze repo vindt u een applicatie om een tello drone van DJI te besturen via een intranetsite op poort 5000.
 De tello drone die u hier voor nodig heeft kan u kopen voor ongeveer 90 euro en dient u te verbinden via zijn
-wifi op het IP-adres 192.168.10.2.
+wifi op het IP-adres 192.168.10.1 UDP PORT:8889
 
 Met deze applicatie kan u de drone aansturen en een persoon laten volgen van op afstand.
 Er is OpenCV geïmplementeerd. Deze opensource software van Intel laat ons toe om gezichten te detecteren.
