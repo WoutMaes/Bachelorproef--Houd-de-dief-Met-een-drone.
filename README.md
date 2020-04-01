@@ -12,5 +12,5 @@ Aan de hand van deze beelddetectie kan de drone autonoom vliegen en jou volgen. 
 
 Tot zo ver de applicatie.
 
-In de bachelorproef zelf (die vanaf 28-29 maart online op deze github-pagina wordt gepubliceerd) wordt dieper ingegaan op de software- en hardwarevereisten die een goede drone nodig heeft voor verschillende omstandigheden. 
+In de bachelorproef zelf wordt dieper ingegaan op de software- en hardwarevereisten die een goede drone nodig heeft voor verschillende omstandigheden. 
 
