@@ -29,10 +29,8 @@ Aan de hand van deze beelddetectie kan de drone autonoom vliegen en jou volgen. 
 
 Deze zaken heb je nodig om deze bachelorproef te kunnen runnen:
 
-```
 1) [Tello DJI drone](https://store.dji.com/product/tello?from=autocomplete&position=0&vid=38421) of de [Tello DJI EDU drone](https://store.dji.com/product/tello-edu?from=autocomplete&position=1&vid=47091). De Tello DJI kost ongeveer $99 en de Tello DJI EDU kost ongeveer $149. U heeft ook een standaard Micro-USB-adapter nodig, maar dit wordt niet meegeleverd in de meeste pakketten.
 2) MAC/Windows/Linux
-```
 
 ### Software die U nodig heeft
 
@@ -44,15 +42,11 @@ Deze zaken heb je nodig om deze bachelorproef te kunnen runnen:
 
 ### Installeren van PyCharm
 
-```
 Dit wijst zichzelf uit. [Download de laatste versie ](https://www.jetbrains.com/pycharm/) en volg de stappen.
-```
 
 ### Installeren van Python
 
-```
 [Download versie 3.8 of hoger](https://www.python.org/) en kies bij het installeren voor Add Python 3.8 to PATH. Klik daarna op install now. De rest wijst zichzelf uit.
-```
 
 ### Installeren van OpenCV
 
