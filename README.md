@@ -132,6 +132,7 @@ Nu kan u de drone besturen en ook uzelf laten volgen door de drone.
 ## Author
 
 * **Wout Maes** - *Initial work* - [Wout Maes](https://github.com/WoutMaes)
+(https://avatars2.githubusercontent.com/u/36441058?s=200)](https://github.com/SWeB06) | [![Wout]
 
 ## Promotor
 
