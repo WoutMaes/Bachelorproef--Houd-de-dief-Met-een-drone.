@@ -27,11 +27,11 @@ Aan de hand van deze beelddetectie kan de drone autonoom vliegen en jou volgen. 
 
 ## Author
 
-* **Wout Maes** - *Initial work* - [PurpleBooth](https://github.com/WoutMaes)
+* **Wout Maes** - *Initial work* - [Wout Maes](https://github.com/WoutMaes)
 
 ## Promotor
 
-* **Jens Buysse** - *Contributor* - [PurpleBooth](https://github.com/eothein)
+* **Jens Buysse** - *Contributor* - [Jens Buysse](https://github.com/eothein)
 
 ## Co-Promotoren:
 
