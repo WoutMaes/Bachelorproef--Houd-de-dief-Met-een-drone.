@@ -40,12 +40,11 @@ Deze zaken heb je nodig om deze bachelorproef te kunnen runnen:
 * [ffmpeg](http://ffmpeg.org/) - Dit heb je nodig om de videobeelden te streamen.
 * [jQuery](https://jquerymobile.com/download/) - Web Framework om HTML5 responsive website te maken.
 
-### Clone this repo
+### Clone deze repository
 
-   ```bash
-   git clone https://github.com/HoGent-Projecten3/projecten3-1920-angular-kolv02
-   ```
-
+```
+git clone https://github.com/WoutMaes/Bachelorproef--Houd-de-dief-Met-een-drone..git
+```
 
 ### Installeren van PyCharm
 
