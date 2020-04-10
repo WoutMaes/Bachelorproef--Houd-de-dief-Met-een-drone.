@@ -25,14 +25,14 @@ Er is OpenCV geïmplementeerd. Deze opensource software van Intel laat ons toe o
 De beelden van drone worden doorgestuurd naar de intranetsite op jou server. Hier wordt de beelddetectie gedaan.
 Aan de hand van deze beelddetectie kan de drone autonoom vliegen en jou volgen. Er is dus geen manuele besturing meer nodig.
 
-### Benodigdheden
+## Benodigdheden
 
 Deze zaken heb je nodig om deze bachelorproef te kunnen runnen:
 
 1) [Tello DJI drone](https://store.dji.com/product/tello?from=autocomplete&position=0&vid=38421) of de [Tello DJI EDU drone](https://store.dji.com/product/tello-edu?from=autocomplete&position=1&vid=47091). De Tello DJI kost ongeveer $99 en de Tello DJI EDU kost ongeveer $149. U heeft ook een standaard Micro-USB-adapter nodig, maar dit wordt niet meegeleverd in de meeste pakketten.
 2) MAC/Windows/Linux
 
-### Software die U nodig heeft
+## Software die U nodig heeft
 
 * [PycharmIDE](https://www.jetbrains.com/pycharm/) - Dit is je werkomgeving.
 * [Python](https://www.python.org/) - Om Python te kunnen gebruiken moet je eerst Python installeren. 
@@ -121,7 +121,7 @@ Indien u alles correct heeft geïnstalleerd dan kan u nu de drone besturen via j
 
 Nu kan u de drone besturen en ook uzelf laten volgen door de drone.
 
-### Leren werken met de drone
+## Leren werken met de drone
 
 [Algemene info over de drone](https://www.ryzerobotics.com/tello/downloads)
 
