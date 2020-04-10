@@ -40,6 +40,13 @@ Deze zaken heb je nodig om deze bachelorproef te kunnen runnen:
 * [ffmpeg](http://ffmpeg.org/) - Dit heb je nodig om de videobeelden te streamen.
 * [jQuery](https://jquerymobile.com/download/) - Web Framework om HTML5 responsive website te maken.
 
+### Clone this repo
+
+   ```bash
+   git clone https://github.com/HoGent-Projecten3/projecten3-1920-angular-kolv02
+   ```
+
+
 ### Installeren van PyCharm
 
 Dit wijst zichzelf uit. [Download de laatste versie ](https://www.jetbrains.com/pycharm/) en volg de stappen.
