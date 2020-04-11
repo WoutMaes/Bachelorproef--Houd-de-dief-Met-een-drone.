@@ -20,7 +20,7 @@ De tello drone die u hier voor nodig heeft kan u kopen voor ongeveer 90 euro en 
 wifi op het IP-adres 192.168.10.1 UDP PORT:8889
 
 Met deze applicatie kan u de drone aansturen en een persoon laten volgen van op afstand.
-Er is OpenCV geïmplementeerd. Deze opensource software van Intel laat ons toe om gezichten te detecteren.
+Er is OpenCV geïmplementeerd. Deze open source software van Intel laat ons toe om gezichten te detecteren.
 
 De beelden van drone worden doorgestuurd naar de intranetsite op jou server. Hier wordt de beelddetectie gedaan.
 Aan de hand van deze beelddetectie kan de drone autonoom vliegen en jou volgen. Er is dus geen manuele besturing meer nodig.
